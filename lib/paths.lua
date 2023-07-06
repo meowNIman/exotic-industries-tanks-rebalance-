@@ -4,7 +4,7 @@
 --PATHS
 --====================================================================================================
 
-ei_tanks_path = "__exotic-industries-tanks__/"
+ei_tanks_path = "__exotic-industries-tanks(rebalanced)__/"
 
 ei_tanks_entity_path = ei_tanks_path.."graphics/entities/"
 ei_tanks_item_path = ei_tanks_path.."graphics/items/"
